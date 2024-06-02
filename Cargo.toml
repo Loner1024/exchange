@@ -1,0 +1,3 @@
+[workspace]
+members = ["common", "config", "push", "quotation", "trading_api", "trading_engine", "trading_sequencer"]
+resolver = "2"
